@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['ec2-18-225-31-227.us-east-2.compute.amazonaws.com']
 
+  
 
 # Application definition
 
